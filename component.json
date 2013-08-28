@@ -1,0 +1,14 @@
+{
+  "name": "pouchdb",
+  "repo": "jaredly/pouchdb",
+  "description": "Pouchdb componentized",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "pouchdb-nightly.js",
+  "scripts": [
+    "pouchdb-nightly.js"
+  ]
+}
